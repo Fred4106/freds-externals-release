@@ -23,7 +23,7 @@
             {
                 "date": "2021-07-02",
                 "requires": "^1.0.0",
-                "sha512sum": "2717B4701305C8EE5AD8C4264D423940D4ED72276B48843D9EEB9EF0AE7554B4BD4CCB9C9E8E2D5D5D7ADDF0440DF98167B1A4DFE8D65B16ECE4D9D3EE011F2C",
+                "sha512sum": "B2E7190733323EEE7DFD119CD4F06A8738DC8BF3B0C9825460614C94C57358CF8DEA7F9C9C350F022D20F46A7BC1ECF15070D5CED064B4F438D1E48EF9EC7698",
                 "url": "https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.4.jar?raw=true",
                 "version": "0.0.4"
             }
