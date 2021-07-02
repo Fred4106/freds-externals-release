@@ -1,6 +1,32 @@
-[{"projectUrl":"https://discord.gg/UPkBfb7eyn","provider":"Fred","name":"Fred's Packet Proxy","description":"Allows packets to be intercepted and modified before being sent to jagex","id":"fredspacketproxy-plugin","releases": [
-        {"date":"2021-05-03","sha512sum":"CCC90384D7E8D3672D3CDD0AE189C17665517308911B08F87638DD295F4352E0592E4838A9B936E9454768437D5D06D8295A0562A6962D9D16C9B32863C082EF","version":"0.0.2","url":"https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.2.jar?raw=true","requires":"^1.0.0"},
-        {"date":"2021-05-21","sha512sum":"A05940ED3984D57A39BEBE637C0B790A712034026B2E51FE3862B1B930723B897377C65A5A99E299FD7299B6D3DD82E73F752BB70FA6641510477A0786674C76","version":"0.0.3","url":"https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.3.jar?raw=true","requires":"^1.0.0"}
-]}]
-
-
+[
+    {
+        "description": "Allows packets to be intercepted and modified before being sent to jagex",
+        "id": "fredspacketproxy-plugin",
+        "name": "Fred's Packet Proxy",
+        "projectUrl": "https://discord.gg/UPkBfb7eyn",
+        "provider": "Fred",
+        "releases": [
+            {
+                "date": "2021-05-03",
+                "requires": "^1.0.0",
+                "sha512sum": "CCC90384D7E8D3672D3CDD0AE189C17665517308911B08F87638DD295F4352E0592E4838A9B936E9454768437D5D06D8295A0562A6962D9D16C9B32863C082EF",
+                "url": "https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            },
+            {
+                "date": "2021-05-21",
+                "requires": "^1.0.0",
+                "sha512sum": "A05940ED3984D57A39BEBE637C0B790A712034026B2E51FE3862B1B930723B897377C65A5A99E299FD7299B6D3DD82E73F752BB70FA6641510477A0786674C76",
+                "url": "https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.3.jar?raw=true",
+                "version": "0.0.3"
+            },
+            {
+                "date": "2021-07-02",
+                "requires": "^1.0.0",
+                "sha512sum": "4761A6FC00115DA2F930C52606A59C01CC56FC43350E42C9E8386B8AF6447C50758270AFFD5C6BBCDDCA2B52116DD17B68849E938A5BB99AE937D16C1AC4D003",
+                "url": "https://github.com/Fred4106/freds-externals-release/blob/master/release/packetproxy-0.0.4.jar?raw=true",
+                "version": "0.0.4"
+            }
+        ]
+    }
+]
